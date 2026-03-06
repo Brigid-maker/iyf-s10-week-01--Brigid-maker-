@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Cheryl Adhiambo
-- **GitHub:** https://github.com/YOUR-GITHUB-USERNAME
+- **GitHub:** https://github.com/Brigid-maker 
 - **Date:** March 6, 2026
 
 ## Project Description
