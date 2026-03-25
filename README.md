@@ -42,5 +42,50 @@ Screenshots can be added here if needed.
 
 ## Live Demo
 Not deployed yet.
-    text-decoration: underline;
-}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Model Practice</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        .box {
+            width: 200px;
+            background-color: lightblue; /* CONTENT */
+            padding: 20px; /* PADDING */
+            border: 5px solid blue; /* BORDER */
+            margin: 20px; /* MARGIN */
+        }
+
+        .box2 {
+            background-color: lightgreen;
+        }
+
+        .box3 {
+            background-color: lightcoral;
+        }
+
+        .box4 {
+            background-color: lightgoldenrodyellow;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Box Model Practice</h1>
+
+    <div class="box">Box 1</div>
+    <div class="box box2">Box 2</div>
+    <div class="box box3">Box 3</div>
+    <div class="box box4">Box 4</div>
+
+</body>
+</html>
