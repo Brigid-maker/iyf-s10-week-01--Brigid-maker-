@@ -43,5 +43,57 @@ Screenshots can be added here if needed.
 ## Live Demo
 Not deployed yet.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+    content="width=device-width,
+    initial-scale=1.0">
+<title> I am Cheryl Brigid</title>
+
+<!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <!-- Your CSS file -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+<li><a href="index.html">Home</a></li> |
+<li><a href="about.html">About</a></li> |
+<li><a href="projects.html">Projects</a></li> |
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+    </header>
+<h1 style="color: red;">Welcome To My Portfolio</h1>
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fc29918b-f188-47d8-a893-1833d9915ddd" />
+
+<p>I am currently learning Computer Programming at We Can Academy. I am passionate about web development and Program Design. Always eager to learn and grow in the tech community.</p>
+
+<section class="card">
+<h2>My hobbies</h2>
+<ol> 
+<li>Reading</li>
+<li>Dancing</li>
+<li>Watching</li>
+</ol> 
+</section>
+
+<section class="card">
+<h3>Favourite Website</h3>
+  <a href="https://github.com">GitHub</a>
+</section>
+
+<section class="card">
+<h4>Email</h4>
+<p><a href="mailto:adhiambocheryl2018@gmail.com">adhiambocheryl2018@gmail.com</a></p>
+</section>
+<button class="btn">Click Me</button>
+</body>
+</html>
 
 
