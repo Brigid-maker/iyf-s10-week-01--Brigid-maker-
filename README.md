@@ -44,82 +44,30 @@ Screenshots can be added here if needed.
 Not deployed yet.
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+/* ===============================
+   LAYOUT IMPROVEMENTS
+================================ */
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="styles.css">
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
 
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Open+Sans:wght@400;500&display=swap" rel="stylesheet">
-</head>
-<body>
+/* Sections spacing */
+section {
+    margin-bottom: 40px;
+}
 
-    <div class="container">
+/* Header spacing */
+header {
+    margin-bottom: 40px;
+}
 
-        <!-- HERO SECTION -->
-        <header>
-            <h1>Welcome To My Portfolio</h1>
-            <p>
-                I am currently learning Computer Programming at We Can Academy. 
-                I am passionate about web development and always eager to learn.
-            </p>
-        </header>
+/* Improve list spacing */
+ol {
+    padding-left: 20px;
+}
 
-        <!-- HOBBIES -->
-        <section>
-            <h2>My Hobbies</h2>
-            <ol>
-                <li>Reading</li>
-                <li>Dancing</li>
-                <li>Watching</li>
-            </ol>
-        </section>
-
-        <!-- FAVORITE WEBSITE -->
-        <section>
-            <h2>Favourite Website</h2>
-            <p>
-                <a href="https://github.com" target="_blank">Visit GitHub</a>
-            </p>
-            <button>Reach Out</button>
-        </section>
-
-        <!-- BOX MODEL (Task 3.2) -->
-        <section>
-            <h2>Box Model Practice</h2>
-
-            <div class="box">Box 1</div>
-            <div class="box">Box 2</div>
-            <div class="box">Box 3</div>
-            <div class="box">Box 4</div>
-
-            <div class="broken-box">Fixed Box (300px total)</div>
-        </section>
-
-        <!-- CARD COMPONENT -->
-        <section>
-            <h2>Project Card</h2>
-
-            <div class="card">
-                <img src="https://via.placeholder.com/300" alt="Project">
-                <h3>My Project</h3>
-                <p>This is a sample project card showing layout and spacing.</p>
-                <button>View Project</button>
-            </div>
-        </section>
-
-        <!-- CONTACT -->
-        <section>
-            <h2>Contact</h2>
-            <p>Email: your@email.com</p>
-        </section>
-
-    </div>
-
-</body>
-</html>
+li {
+    margin-bottom: 5px;
+}
