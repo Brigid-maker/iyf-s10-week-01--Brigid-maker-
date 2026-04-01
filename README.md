@@ -44,30 +44,3 @@ Screenshots can be added here if needed.
 Not deployed yet.
 
 
-/* ===============================
-   LAYOUT IMPROVEMENTS
-================================ */
-
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-/* Sections spacing */
-section {
-    margin-bottom: 40px;
-}
-
-/* Header spacing */
-header {
-    margin-bottom: 40px;
-}
-
-/* Improve list spacing */
-ol {
-    padding-left: 20px;
-}
-
-li {
-    margin-bottom: 5px;
-}
