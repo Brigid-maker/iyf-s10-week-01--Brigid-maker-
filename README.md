@@ -1,4 +1,4 @@
-# Week 01: Personal Web Portfolio
+# Week 02: Personal Web Portfolio
 
 ## Author
 - **Name:** Cheryl Adhiambo
